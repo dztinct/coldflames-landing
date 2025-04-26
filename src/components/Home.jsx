@@ -11,7 +11,7 @@ const Home = () => {
               <div className="py-6 px-8 bg-blue-700">
                 <h1 className="text-gray-100 font-bold text-2xl mb-3  hover:cursor-pointer">Join the Elite: Learn from the best in the business</h1>
                 <p className="text-gray-100 tracking-wide text-center">Future-Proof Your Tech Skills From A Top-tier Tech Training Institute</p>
-                <a href="https://wa.me/message/N7RLKYVMOWZSN1" className="mt-6 py-2 px-4 block bg-white text-red-700 font-bold rounded-lg shadow-md hover:shadow-lg transition duration-300 text-center">Click here</a>
+                <a href="https://wa.me/message/QW2KJEPCLFPDO1" className="mt-6 py-2 px-4 block bg-white text-red-700 font-bold rounded-lg shadow-md hover:shadow-lg transition duration-300 text-center">Click here</a>
               </div>
             </div>
           </div>
